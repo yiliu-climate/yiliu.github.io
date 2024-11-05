@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Liu (Oliver Liu)"
-description              : "Postdoctoral Fellow, NOAA/PMEL"
+description              : "Postdoctoral Fellow  NOAA/PMEL"
 repository               : "yiliu-climate/yiliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Liu"
   avatar           : "images/profile_yiliu.jpg"
-  bio              : "climatologist & oceanographer"
+  bio              : "Ph.D."
   location         : "Seattle WA, USA"
   employer         :
   pubmed           : 
