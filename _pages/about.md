@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Bio
-I am currently a Postdoctoral Fellow at NOAA Pacific Marine Environmental Laboratory (PMEL), supported by the National Research Council Research Associateship Program. I got my PhD degree in 2024 from Ocean University of China, under a joint supervision program with CSIRO Environment at Melbourne Australia. My research interests include: (1) tropical Atlantic climate variability, with impacts on hurricanes and regional rainfall; (2) trans-basin climate interaction; (3) socioeconomic impacts of tropical climate variability. I have published 10 papers at the high-impact journals in the field, such as Nature Climate Change, Nature Communications, and Nature Reviews Earth & Environment, with 5 papers as the first author.
+I am currently a Postdoctoral Fellow at NOAA Pacific Marine Environmental Laboratory (PMEL), supported by the National Research Council Research Associateship Program. I got my PhD degree in 2024 from Ocean University of China, under a joint supervision program with CSIRO Environment at Melbourne Australia. My research interests include: (1) tropical Atlantic climate variability, with impacts on hurricanes and regional rainfall; (2) trans-basin climate interaction; (3) socioeconomic impacts of tropical climate variability. I have published 10 papers at the high-impact journals in the field, including Nature Climate Change, Nature Communications, and Nature Reviews Earth & Environment, with 5 papers as the first author.
 
 # Educations
 - *2018.08 - 2024.06*, Ph.D., Physical Oceanography, Ocean University of China, Qingdao, China
