@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me.md"
+    url: "/aboutme.md"
 
   - title: "News"
     url: "/#-news"
