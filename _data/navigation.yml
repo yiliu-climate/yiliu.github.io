@@ -3,8 +3,5 @@ main:
   - title: "About Me"
     url: "/aboutme.md"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "CV"
+    url: "/#-cv"
