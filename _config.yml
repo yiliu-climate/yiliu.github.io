@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yi Liu (Oliver Liu)"
 description              : "Postdoctoral Fellow  NOAA/PMEL"
-repository               : "yiliu-climate/yiliu.github.io"
+repository               : "yiliu-climate.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
