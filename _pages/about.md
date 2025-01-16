@@ -37,6 +37,7 @@ I am currently a Postdoctoral Fellow at NOAA Pacific Marine Environmental Labora
 - *2022.11* China National Scholarship, granted by The Ministry of Education of China
 
 # Conferences and Seminars
+- *2024.12*, On the diversity of north tropical Atlantic climate variability. *AGU24 Fall Meeting*, Washington D.C., USA
 - *2024.04*, Quantifying economic impact of tropical climate variability: From past to future. *EGU24 General Assembly*, Vienna, Austria
 - *2024.02*, Nonlinear impacts from ENSO and IOD to Australian and global economy under climate change. *30th AMOS Annual Conference*, Canberra, Australia
 - *2023.12*, Nonlinear Impact of El Niño and Indian Ocean Dipole on Global Economy in a Warming Climate. *Fudan-Guanghua International Forum for Young Scholars*, Shanghai, China
